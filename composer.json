@@ -1,0 +1,21 @@
+{
+    "name": "cleverlocal/bigcommerce-api",
+    "description": "Cleverlocal Bigcommerce API",
+    "version": "0.1.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harlequin Doyon",
+            "email": "harley@cleverlocal.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzle/guzzle": "~3.9"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
